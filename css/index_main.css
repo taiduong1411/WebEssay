@@ -1,0 +1,68 @@
+.image {
+    height: 400px;
+    background-color: #BEBEBE;
+    color: #777;
+    line-height: 400px;
+    text-align: center;
+    font-size: 90px;
+}
+
+.footer {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    background-color: #777;
+    margin-top: 20px;
+}
+
+.card-header {
+    height: 150px;
+    background-color: #BEBEBE;
+    color: #999;
+    line-height: 130px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.sub-menu .nav-item {
+    border: 1px solid rgb(226, 226, 226);
+}
+
+.card-body h4 {
+    color: rgb(4, 166, 230);
+}
+
+
+/* css icon */
+
+.bi-person-circle {
+    margin-right: 2px;
+    user-select: none;
+    color: white;
+}
+
+.userlogin-link {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.userlogin-link:hover {
+    opacity: 0.7 !important;
+}
+
+
+/* 
+.bi-person-circle {
+    margin-left: 10px;
+} */
+
+
+/* .btn {
+    margin-left: -10px;
+}
+
+.dropdown-menu {
+    margin-top: 8px;
+    margin-left: -12px;
+} */
